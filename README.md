@@ -76,4 +76,4 @@ Issues and pull requests are welcome, whether that's a new dashboard, a panel fo
 
 ## Author
 
-**[sarangacharya](https://github.com/sarangacharya)** · DevOps / Platform Engineer · [LinkedIn](https://www.linkedin.com/in/<your-linkedin-handle>)
+**[sarangacharya](https://github.com/sarangacharya)** · DevOps / SRE Ops / Platform Engineering · [LinkedIn](https://www.linkedin.com/in/sarang-acharya-87577711<img width="468" height="17" alt="image" src="https://github.com/user-attachments/assets/ac1ba0b4-f48b-489b-a8f8-9922f57e895d" />)
