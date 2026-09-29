@@ -53,7 +53,7 @@ Each dashboard's own README covers its requirements, how to provision it as code
 ├── LICENSE
 ├── assets/
 │   ├── banner.svg
-│   └── social-preview.png             ← link-card image for LinkedIn / social
+│   └── social-preview.png             ← link-card image 
 └── dashboards/
     └── k8s-capacity-bottlenecks/
         ├── README.md                  ← dashboard docs + troubleshooting playbook
